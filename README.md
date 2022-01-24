@@ -7,3 +7,7 @@ The data used here whas collected by ACLED. ACLED collects real-time data on the
 https://acleddata.com/#/dashboard
 
 "Armed Conflict Location & Event Data Project (ACLED); www.acleddata.com​."
+
+Resulting map:
+
+![bokeh_plot](https://user-images.githubusercontent.com/60848308/150776365-40c83f8b-cf6a-467a-b818-f397cd6460f6.png)
